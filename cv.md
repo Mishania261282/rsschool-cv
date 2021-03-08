@@ -4,8 +4,8 @@
 
 
 > **Education** 
- Higher education, full-time / full-time 2006 Military Academy of the Republic of Belarus Faculty: Automated Control Systems SV Specialty: Automated control systems
- Qualification: electronic engineering engineer
+ Higher education,full-time 2006 Military Academy of the Republic of Belarus Faculty: Automated Control Systems SV Specialty: Automated control systems
+ Qualification: electronic engineering
  
   >**Knowledge and skills** 
   Professional skills: - experience working with HTML5, CSS3, JS; - knowledge of JavaScript/jQuery; - experience in adaptive layout; - experience in creating HTML pages of a site based on design layouts; - experience in site layout and templates for CMS; - skills in binding scripts to the user interface that provide visualization and animation of site pages; - knowledge of PhotoShop; - knowledge of other programming languages. 
