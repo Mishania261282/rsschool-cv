@@ -18,15 +18,21 @@
   >- skills in binding scripts to the user interface that provide visualization and animation of site pages;
   >- knowledge of PhotoShop;
   >- knowledge of other programming languages.
+
    > **Education** :
  Higher education;  
  full-time 2006 Military Academy of the Republic of Belarus;  
  Faculty: Automated Control Systems SV Specialty: Automated control systems;  
  Qualification: electronic engineering.  
  Course "Front End Developer". Web Application development using React The Certificate.
+ 
  >**Code example**
  >>function sum(a, b) {   
 >return a + b;   
 }   
 >let result = sum(1, 2);   
 >alert( result );
+
+> **WORK EXPERIENCE**
+>>Studying at the "Teach me Skills" training center.  
+>As a result of the study, a graduation project was made, which was created using React, Redux Toolkit, React Router.
