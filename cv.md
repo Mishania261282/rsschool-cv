@@ -18,3 +18,9 @@
   >- skills in binding scripts to the user interface that provide visualization and animation of site pages;
   >- knowledge of PhotoShop;
   >- knowledge of other programming languages.
+   > **Education** :
+ Higher education;  
+ full-time 2006 Military Academy of the Republic of Belarus;  
+ Faculty: Automated Control Systems SV Specialty: Automated control systems;  
+ Qualification: electronic engineering.  
+ Course "Front End Developer". Web Application development using React The Certificate.
