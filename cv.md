@@ -24,3 +24,9 @@
  Faculty: Automated Control Systems SV Specialty: Automated control systems;  
  Qualification: electronic engineering.  
  Course "Front End Developer". Web Application development using React The Certificate.
+ >**Code example**
+ >>function sum(a, b) {   
+>return a + b;   
+}   
+>let result = sum(1, 2);   
+>alert( result );
